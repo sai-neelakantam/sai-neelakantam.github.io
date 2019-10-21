@@ -1,11 +1,11 @@
 const BLACKLISTED_KEY_CODES = [ 38 ];
 const COMMANDS = {
     help: "Supported commands: <span class=\"code\">about</span>, <span class=\"code\">experience</span>, <span class=\"code\">education</span>, <span class=\"code\">skills</span>, <span class=\"code\">corgi</span>",
-    about: "Hello 👋<br>As the domain suggests, my name is Joey. I’m a full-stack developer currently living in Orlando, FL as I attend the University of Central Florida. I have a burning passion to want and help others with code that I create. I enjoy the limitless potential of impact that I can have with what I build. It is what pushes me every day to become a better engineer. Outside of coding, you can find me looking at corgis on Instagram!",
+    about: "Hello 👋<br>As the domain suggests, my name is Sai Neelakantam. I’m a Senior Big Data Engineer currently living in Beaverton, OR as I attend the University of Central Florida. I have a burning passion to want and help others with code that I create. I enjoy the limitless potential of impact that I can have with what I build. It is what pushes me every day to become a better engineer. Outside of coding, you can find me looking at corgis on Instagram!",
     skills: "<span class=\"code\">Languages:</span> JavaScript, TypeScript, PHP, Java, Python, C<br><span class=\"code\">Technologies:</span> Node.js, Git, Docker, Linux, NGINX, Apache, MySQL<br><span class=\"code\">Frameworks:</span> Angular, React.js, Vue.js, Laravel, Flask, Bootstrap, Selenium",
-    education: "University of Central Florida<br>B.S. Information Technology — Emphasis in Software Engineering",
-    resume: "<a href='./joey_colon_resume.pdf' class='success link'>resume.pdf</a>",
-    experience: "LSQ Funding Group (Jan. 2019 - April 2019) (Orlando, FL)<br>Software Engineer Intern",
+    education: "Arizona State University, Tempe, AZ<br>Master of Science in Computer Sciences<br><br>Osmania University, Hyderabad, TG, India<br>Bachelor of Engineering in Information Technology",
+    resume: "<a href='./Sai_Neelakantam_Resume.pdf' class='success link'>resume.pdf</a>",
+    experience: "Nike Inc (Feb. 2017 - Present) (Beaverton, OR)<br>Senior Big Data Engineer<br><br>Bank of America (Sep. 2015 - Feb. 2017) (Charlotte, NC)<br>Data Engineer<br><br><br>Cloudwick Technologies (May. 2015 - Sept. 2015) (Newark, CA)<br>Big Data Engineer<br><br>Intel Corporation (May. 2014 - Nov. 2014) (Chandler, AZ)<br>Software Graduate Intern",
     corgi: "My top 3 favorite corgis (click to view):<br><a href='https://www.instagram.com/bearorcorgi/' class='success link'>Bear</a>, <a href='https://www.instagram.com/lychee_the_corgi/' class='success link'>Mochee</a>, <a href='https://www.instagram.com/thecorgijack/' class='success link'>Jack</a>"
 };
 let userInput, terminalOutput;
